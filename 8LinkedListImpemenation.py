@@ -96,6 +96,7 @@ class LinkedList:
         self._size-=1
         return del_element
 
+
     def display(self):
         thead = self._head
         while thead:
