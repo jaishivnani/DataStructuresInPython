@@ -17,7 +17,7 @@ def binarysearch(list,n):
                 high = mid-1
     return False
 
-list = [4,7,8,12,45,99,102,702,10987,56666]
+list = [4,7,8,12,45,99,102,702,10987,56666, 777]
 n = 45
 
 if binarysearch(list,n):
